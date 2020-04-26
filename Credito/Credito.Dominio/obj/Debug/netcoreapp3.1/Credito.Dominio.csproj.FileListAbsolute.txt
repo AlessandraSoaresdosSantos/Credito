@@ -1,0 +1,9 @@
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.csprojAssemblyReference.cache
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.AssemblyInfoInputs.cache
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.AssemblyInfo.cs
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\bin\Debug\netcoreapp3.1\Credito.Dominio.deps.json
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\bin\Debug\netcoreapp3.1\Credito.Dominio.dll
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\bin\Debug\netcoreapp3.1\Credito.Dominio.pdb
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.dll
+C:\Users\alessandra.santos\source\repos\Credito\Credito.Dominio\obj\Debug\netcoreapp3.1\Credito.Dominio.pdb
